@@ -18,4 +18,4 @@ A script for respawn location selection and player revival in **QBCORE**/ **ESX*
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/Walter399/cdx-newlife.git](https://github.com/Walterr399/cdx-newlife)
+   git clone https://github.com/Walterr399/cdx-newlife
