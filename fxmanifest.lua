@@ -3,7 +3,7 @@ games { 'gta5' }
 
 lua54 'yes'
 
-name 'Codex Developement'
+name 'cdx-newlife'
 author 'Walter'
 
 client_scripts {
